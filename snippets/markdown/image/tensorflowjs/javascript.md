@@ -9,6 +9,7 @@ Learn more about how to use the code snippet on [github](https://github.com/goog
 <script src="https://cdn.jsdelivr.net/npm/@teachablemachine/image@latest/dist/teachablemachine-image.min.js"></script>
 <script type="text/javascript">
     // More API functions here:
+    // spatanka : 14/05/2026
     // https://github.com/googlecreativelab/teachablemachine-community/tree/master/libraries/image
 
     // the link to your model provided by Teachable Machine export panel
